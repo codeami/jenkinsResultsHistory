@@ -21,4 +21,4 @@
 
 ### Enhancements:-
 * Add new columns "Steps leading to Failure", "Failure step" (grep out the exact Line that failed, previous 5 lines ignoring blank ones) This will help narrow down root cause of failure faster. Also sorting/grouping by failedstep will help see patterns if any)
-* Add new/update existing column in "skipped" TCs with @Ignore tag line containing Product/VOOD bug + get the status of this bug
+* Add new/update existing column in "skipped" TCs with @Ignore tag line containing Product/AutomationLibrary bug + get the status of this bug
